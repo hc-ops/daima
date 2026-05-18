@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode 字符串转换整数", "leetcode 字符串转换整数\leetcode 字符串转换整数.vcxproj", "{5BFC790E-78A6-493D-AB96-CF867B72E187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BFC790E-78A6-493D-AB96-CF867B72E187}.Debug|x64.ActiveCfg = Debug|x64
+		{5BFC790E-78A6-493D-AB96-CF867B72E187}.Debug|x64.Build.0 = Debug|x64
+		{5BFC790E-78A6-493D-AB96-CF867B72E187}.Debug|x86.ActiveCfg = Debug|Win32
+		{5BFC790E-78A6-493D-AB96-CF867B72E187}.Debug|x86.Build.0 = Debug|Win32
+		{5BFC790E-78A6-493D-AB96-CF867B72E187}.Release|x64.ActiveCfg = Release|x64
+		{5BFC790E-78A6-493D-AB96-CF867B72E187}.Release|x64.Build.0 = Release|x64
+		{5BFC790E-78A6-493D-AB96-CF867B72E187}.Release|x86.ActiveCfg = Release|Win32
+		{5BFC790E-78A6-493D-AB96-CF867B72E187}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD37ABE3-701D-4FC0-B056-0EE5EFD393BE}
+	EndGlobalSection
+EndGlobal
