@@ -1,0 +1,4 @@
+﻿  test.c
+D:\桌面\新建文件夹\hc\hc\hc\排序\排序\test.c(19,5): warning C4013: “Swap”未定义；假设外部返回 int
+D:\桌面\新建文件夹\hc\hc\hc\排序\排序\test.c(32,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  排序.vcxproj -> D:\桌面\新建文件夹\hc\hc\hc\排序\x64\Debug\排序.exe
